@@ -1,0 +1,26 @@
+{
+  "name": "blog_new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "scripts": {
+    "start": "nodemon --inspect main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nguyenlthoe/Nodejs_blog.git"
+  },
+  "author": "nguyenLT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nguyenlthoe/Nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/Nguyenlthoe/Nodejs_blog#readme"
+}
